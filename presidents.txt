@@ -1,0 +1,11 @@
+Dwight D. Eisenhower | Republican | Jan | 1953 | Jan | 1961
+John F. Kennedy | Democrat | Feb | 1961 | Nov | 1963
+Lyndon B. Johnson | Democrat | Dec | 1963 | Jan | 1969
+Richard Nixon | Republican | Feb | 1969 | Jul | 1974
+Gerald Ford | Republican | Aug | 1974 | Jan | 1977
+Jimmy Carter | Democrat | Feb | 1977 | Jan | 1981
+Ronald Reagan | Republican | Feb | 1981 | Jan | 1989
+George H. W. Bush | Republican | Feb | 1989 | Jan | 1993
+Bill Clinton | Democrat | Feb | 1993 | Jan | 2001
+George W. Bush | Republican | Feb | 2001 | Jan | 2009
+Barack Obama | Democrat | Feb | 2009 | Jan | 2017
