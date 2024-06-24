@@ -1,7 +1,6 @@
 """
 Project Name: Was Clinton Right?
 Author: Cody Behling
-Due Date: 12/16/2020
 Course: CS1400-X01
 
 My program is designed to analyze data regarding private-sector jobs created between 1961 - 2012.
